@@ -1,4 +1,4 @@
-# Hertz Fleet Utilization Analysis
+# Fleet Utilization Analysis
 
 ## Project Overview
 End-to-end SQL and Python analytics project analyzing vehicle fleet utilization,
@@ -20,4 +20,3 @@ pricing, and customer satisfaction using a public rental dataset.
 - Electric and hybrid vehicles receive the highest customer ratings
 - Larger vehicle types (vans, SUVs) command higher daily rates
 
-## Project Structure
